@@ -8,7 +8,7 @@ You can visit the Dashboard at this Link: [CitiBike Dashboard](https://public.ta
 Results/Visualization:
 The first slide shows the number of rides by trip duration broken down by hours and minutes and by gender. This data shows that men are more likely to ride bikes around NYC and by a significant margin. 
 
-![images/story1](story1.png)
+![story1.png](images/story1.png)
 
 We then look at a heat map to see what most popular time is in regards to the day of the week. This is futher broken down by gender as well. This visualization shows us that bikes are more typically taken during rush hour times before and after the normal 9a-5p work day. This information shows us that the best time to do bike repairs would be late at night or very early in the morning. This information also backs up the last slide by showing that men are riding bikes at higher volume than their female counterparts. 
 
